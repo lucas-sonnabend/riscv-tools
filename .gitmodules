@@ -22,3 +22,6 @@
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
 	url = https://github.com/lucas-sonnabend/riscv-gnu-toolchain.git
+[submodule "lowrisc-tag-tests"]
+	path = lowrisc-tag-tests
+	url = https://github.com/lucas-sonnabend/lowrisc-tag-tests.git

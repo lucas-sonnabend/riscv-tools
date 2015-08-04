@@ -56,4 +56,4 @@ all: $(tag_tests)
 linux: $(tag_tests_linux)
 
 clean:
-	rm -fr $(tag_tests) $(tag_tests_linux)
+	rm -fr $(tag_tests) $(tag_tests_linux) $(tag_tests_disass)
